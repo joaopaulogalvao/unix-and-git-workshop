@@ -1,4 +1,5 @@
 cd <path> Changes the working directory to <path>
 ls <path> Lists the directory content of <path>
 ...
+Unix notes edit.
 Joao Alves
